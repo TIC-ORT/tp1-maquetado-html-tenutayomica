@@ -8,7 +8,7 @@
     height: 150px;
     background-color: rgb(255, 153, 0);
     position: relative;
-    bottom: 170px;
+    flex-direction: column;
     left: 50px;
 }
 .bluesquare{
