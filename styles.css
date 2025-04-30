@@ -25,6 +25,9 @@ footer{
     align-self: flex-end;
     height: 15%;
     width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
 }
 .difsquaresec{
     height: 100%;
@@ -63,11 +66,11 @@ footer{
     width: 17.5vh;
 }
 #blue.square{
-    background-color: blue;
+    background-color: rgb(78, 190, 241);
 }
 #yellow.square{
-    background-color: yellow;
+    background-color: rgb(248, 200, 42);
 }
 #red.square{
-    background-color: red;
+    background-color: rgb(247, 111, 111);
 }
